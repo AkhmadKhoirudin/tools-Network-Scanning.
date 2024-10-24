@@ -9,8 +9,10 @@ Teknik yang kamu gunakan untuk memeriksa perangkat-perangkat yang terhubung ke j
 
    Network Mapping: Teknik ini melibatkan pemetaan seluruh perangkat yang ada di jaringan, termasuk informasi seperti IP, MAC address, dan nama host.
 
-#contoh 
- 1.Ping Sweep dengan nmap
+# contoh penerapanya 
+
+ 
+ #1.Ping Sweep dengan nmap
 
 Teknik ini digunakan untuk menemukan perangkat aktif di jaringan dengan mengirimkan paket ICMP (ping).
 ````
