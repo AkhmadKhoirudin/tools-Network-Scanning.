@@ -12,7 +12,7 @@ Teknik yang kamu gunakan untuk memeriksa perangkat-perangkat yang terhubung ke j
 # contoh penerapanya 
 
  
- #1.Ping Sweep dengan nmap
+  1.Ping Sweep dengan nmap
 
 Teknik ini digunakan untuk menemukan perangkat aktif di jaringan dengan mengirimkan paket ICMP (ping).
 ````
