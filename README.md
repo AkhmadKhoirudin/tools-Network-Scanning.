@@ -19,7 +19,10 @@ Teknik ini digunakan untuk menemukan perangkat aktif di jaringan dengan mengirim
 sudo nmap -sn 192.168.1.0/24
 
 ````
+Penjelasan:
 
+  -sn adalah opsi untuk melakukan ping sweep (hanya memeriksa apakah perangkat aktif tanpa memindai port).
+    192.168.1.0/24 menunjukkan jaringan yang dipindai (dari IP 192.168.1.1 hingga 192.168.1.254).
 dengan output contoh 
 ````
 ┌──(udi㉿192)-[~]
