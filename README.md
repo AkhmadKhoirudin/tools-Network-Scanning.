@@ -12,7 +12,7 @@ Teknik yang kamu gunakan untuk memeriksa perangkat-perangkat yang terhubung ke j
 # contoh penerapanya 
 
  
-  1.Ping Sweep dengan nmap
+# 1.Ping Sweep dengan nmap
 
 Teknik ini digunakan untuk menemukan perangkat aktif di jaringan dengan mengirimkan paket ICMP (ping).
 ````
@@ -42,7 +42,7 @@ Host is up.
 Nmap done: 256 IP addresses (5 hosts up) scanned in 2.11 seconds
                                                                       
 ````
-2.ARP Scanning dengan arp-scan
+# 2.ARP Scanning dengan arp-scan
 
 Teknik ini memanfaatkan protokol ARP untuk memetakan alamat IP ke alamat MAC di jaringan lokal.
 
